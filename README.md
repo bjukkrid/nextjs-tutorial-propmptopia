@@ -26,10 +26,15 @@ npm install
 To run this project, you will need to add the following environment variables to your .env file
 
 `NEXTAUTH_URL=http://localhost:3000`
+
 `NEXTAUTH_URL_INTERNAL=http://localhost:3000`
+
 `NEXTAUTH_SECRET=`
+
 `GOOGLE_ID=`
+
 `GOOGLE_CLIENT_SECRET=`
+
 `MONGODB_URI=`
 
 
